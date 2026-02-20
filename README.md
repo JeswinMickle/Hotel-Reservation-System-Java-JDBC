@@ -52,5 +52,5 @@ Tables:
 
 ## 📌 Author
 
-Your Name  
+Jeswin Mickle 
 GitHub: https://github.com/JeswinMickle
